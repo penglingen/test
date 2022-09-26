@@ -265,3 +265,4 @@ registrations: count=50
   {callingPackage=com.redteamobile.monitor binder=android.os.BinderProxy@9a9340 callback=com.android.internal.telephony.IPhoneStateListener$Stub$Proxy@e2e6279 onSubscriptionsChangedListenererCallback=null onOpportunisticSubscriptionsChangedListenererCallback=null callerUid=1000 subId=10 phoneId=1 events=101}
   {callingPackage=com.android.phone binder=android.os.BinderProxy@e56fbbe callback=null onSubscriptionsChangedListenererCallback=com.android.internal.telephony.IOnSubscriptionsChangedListener$Stub$Proxy@eb1441f onOpportunisticSubscriptionsChangedListenererCallback=null callerUid=1001 subId=-1 phoneId=-1 events=0}
   {callingPackage=com.android.phone binder=android.os.BinderProxy@335a36c callback=com.android.internal.telephony.IPhoneStateListener$Stub$Proxy@729ad35 onSubscriptionsChangedListenererCallback=null onOpportunisticSubscriptionsChangedListenererCallback=null callerUid=1001 subId=10 phoneId=1 events=1}
+修改测试
